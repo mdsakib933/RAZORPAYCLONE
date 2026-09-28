@@ -1439,20 +1439,20 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
+.bg-\[url\(\.\/Images\/CTABg\.svg\)\] {
+  background-image: url(./Images/CTABg.svg);
+}
+
+.bg-\[url\(\.\/Images\/core-features-sectionBg\.svg\)\] {
+  background-image: url(./Images/core-features-sectionBg.svg);
+}
+
 .bg-\[url\(\.\/Images\/feature-section-2BG\.svg\)\] {
   background-image: url(./Images/feature-section-2BG.svg);
 }
 
-.bg-\[url\(\/Images\/CTABg\.svg\)\] {
-  background-image: url(/Images/CTABg.svg);
-}
-
-.bg-\[url\(\/Images\/core-features-sectionBg\.svg\)\] {
-  background-image: url(/Images/core-features-sectionBg.svg);
-}
-
-.bg-\[url\(\/Images\/instant-settlement-bg\.svg\)\] {
-  background-image: url(/Images/instant-settlement-bg.svg);
+.bg-\[url\(\.\/Images\/instant-settlement-bg\.svg\)\] {
+  background-image: url(./Images/instant-settlement-bg.svg);
 }
 
 .bg-cover {
@@ -1846,8 +1846,8 @@ video {
   background-color: rgb(11 114 231 / var(--tw-bg-opacity, 1));
 }
 
-.hover\:bg-\[url\(\/Images\/instant-settlement-bghover\.svg\)\]:hover {
-  background-image: url(/Images/instant-settlement-bghover.svg);
+.hover\:bg-\[url\(\.\/Images\/instant-settlement-bghover\.svg\)\]:hover {
+  background-image: url(./Images/instant-settlement-bghover.svg);
 }
 
 .hover\:text-grayBlue:hover {
